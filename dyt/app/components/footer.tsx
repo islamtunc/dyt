@@ -110,7 +110,7 @@ export default function Footer() {
 
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" />  05443404645
+                <MDBIcon icon="phone" className="me-3" />  tel no:
               </p>
               <p>
                 <MDBIcon icon="print" className="me-3" />  

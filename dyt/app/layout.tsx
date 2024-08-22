@@ -17,8 +17,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 
 export const metadata: Metadata = {
-  title: "Yakutlar Peyzaj",
-  description: "Peyzaj Mimarlığı",
+  title: "Dyt Ömer Kama",
+  description: "Beslenme ve Diyetetik",
 };
 
 export default function RootLayout({
